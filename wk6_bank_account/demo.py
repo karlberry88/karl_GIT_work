@@ -10,7 +10,7 @@ print(some_account.getbalance())
 another = Account(0)
 another.deposit(10)
 
-eoghan = Account(1000000000000)
+eoghan = Account(20)
 eoghan.deposit(10000)
 
 print(another.getbalance())

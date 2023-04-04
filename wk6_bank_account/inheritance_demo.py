@@ -5,6 +5,8 @@ barney = Person("Barney",'m')
 
 fred = Employee("Fred Bloggs",'m', 'IT')
 wilma = Employee("Wilma",'f', 'HR')
+daniel = Employee( "Daniel ",'m', 'driver' )
 print(fred)
 print(wilma)
 print(barney)
+print(daniel)
